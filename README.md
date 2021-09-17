@@ -4,6 +4,7 @@ This program is fairly simple it takes two numbers provided from the user then i
 
 # Feature
 
+- Added: adds the two numbers. The code will ask you input two number and return with addition of two number.
 - Divider: divides the two numbers. The code will ask you input two number and return with divison of two number.
 - Multiplier: multiples the two numbers. The code will ask you input two number and return with mutliplication of two number.
 
