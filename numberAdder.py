@@ -1,4 +1,4 @@
-# Add two numbers
+# Adds two numbers
 def adder(a,b):
     return a+b
 
