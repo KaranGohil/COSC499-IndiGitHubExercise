@@ -1,13 +1,15 @@
-
+# Add two numbers
 def adder(a,b):
     return a+b
 
+# Divides two numbers
 def divider(a,b):
     if b == 0:  
         return -1
     else:
         return a/b
 
+# Multiply two numbers
 def multiplier(a,b):
     return a*b
 
